@@ -1,4 +1,4 @@
-FROM debian:8.2
+FROM debian:8.4
 MAINTAINER Jim Riordan <jim@j1mr10rd4n.info>
 
 ADD . /build
